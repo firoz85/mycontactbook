@@ -1,0 +1,9 @@
+node_modules
+/config/default.json
+
+/frontend/build
+
+
+/frontend/yarn.lock
+package-lock.json
+

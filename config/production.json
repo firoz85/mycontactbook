@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb://localhost:27017/contactkeeper",
+  "mongoURI": "mongodb+srv://reactblog:reactblog@reactblog-seeq4.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "secret" 
 }

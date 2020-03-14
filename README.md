@@ -6,14 +6,14 @@ This is the full app. The API can be found [here](https://github.com/bradtravers
 
 ## Technologies
 -- Express Backend API
-JWT (JSON Web Token)
-MongoDB/Mongoose
-Password Encryption
-React Hooks
-Context API(Store JWT)
-Route Protection
-CRUD
-Api-docs- swagger-jsdoc
+-- JWT (JSON Web Token)
+- MongoDB/Mongoose
+- Password Encryption
+- React Hooks
+- Context API(Store JWT)
+- Route Protection
+- CRUD
+- Api-docs- swagger-jsdoc
 
 
 ## Usage

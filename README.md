@@ -1,6 +1,6 @@
 # Contact Keeper
 
-> Full stack MERN contact manager with React hooks, context & JWT authentication. Part of my React course on Udemy.
+> Full stack MERN contact manager with React hooks, context & JWT authentication. 
 
 This is the full app. The API can be found [here](https://github.com/firoz85/mycontactbook/blob/master/frontend/Api-mycontactbook.md) with documented endpoints
 
